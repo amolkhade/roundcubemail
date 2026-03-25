@@ -5,10 +5,23 @@ Roundcube Webmail
 
 ATTENTION
 ---------
-This is just a snapshot from the GIT repository and is **NOT A STABLE
-version of Roundcube**. It's not recommended to replace an existing installation
-of Roundcube with this version. Also using a separate database for this
-installation is highly recommended.
+# Roundcube Webmail – Custom Enhancements by Amol Khade
+
+This repository contains my working and customized version of Roundcube Webmail, where I have focused on UI/UX improvements, skin development, and practical deployment enhancements.
+
+## 🔧 Contributions
+- Developed and customized skins to improve user interface and usability  
+- Implemented UI refinements for better user experience  
+- Worked on configuration and deployment optimizations for real-world usage  
+- Explored and extended Roundcube’s theming and customization capabilities  
+
+## 🎯 Focus
+My work has been centered on making Roundcube more user-friendly, efficient, and better suited for modern self-hosted email environments.
+
+## 🚀 Ongoing Work
+- Improving interface responsiveness and usability  
+- Refining visual design and layout consistency  
+- Exploring further customization and feature enhancements  
 
 
 INTRODUCTION
